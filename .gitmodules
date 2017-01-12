@@ -1,0 +1,24 @@
+[submodule "40423124"]
+	path = 40423124
+	url = https://github.com/40423124/2016fallcadp_hw
+	branch = gh-pages
+[submodule "g0910841123"]
+	path = g0910841123
+	url = https://github.com/g0910841123/2016fallcadp_hw
+	branch = gh-pages
+[submodule "2016fallcadp_hw"]
+	path = 2016fallcadp_hw
+	url = https://github.com/40423122/2016fallcadp_hw.git
+	branch = gh-pages
+[submodule "40423122"]
+	path = 40423122
+	url = https://github.com/40423122/2016fallcadp_hw.git
+	branch = gh-pages
+[submodule "40423120"]
+	path = 40423120
+	url = https://github.com/40423120/2016fallcadp_hw.git
+	branch = gh-pages
+[submodule "40423114"]
+	path = 40423114
+	url = https://github.com/40423114/2016fallcadp_hw.git
+	branch = gh-pages
